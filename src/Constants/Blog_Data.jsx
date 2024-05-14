@@ -1,0 +1,66 @@
+export const posts = [
+  {
+    id: 1,
+    title: "First Time Home Owner Ideas",
+    author: "Kristin Watson",
+    date: "Dec 19, 2021",
+    image: "./Assets/images/post-1.jpg",
+  },
+  {
+    id: 2,
+    title: "How To Keep Your Furniture Clean",
+    author: "Robert Fox",
+    date: "Dec 15, 2021",
+    image: "./Assets/images/post-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Small Space Furniture Apartment Ideas",
+    author: "Kristin Watson",
+    date: "Dec 12, 2021",
+    image: "./Assets/images/post-3.jpg",
+  },
+  {
+    id: 1,
+    title: "First Time Home Owner Ideas",
+    author: "Kristin Watson",
+    date: "Dec 19, 2021",
+    image: "./Assets/images/post-1.jpg",
+  },
+  {
+    id: 2,
+    title: "How To Keep Your Furniture Clean",
+    author: "Robert Fox",
+    date: "Dec 15, 2021",
+    image: "./Assets/images/post-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Small Space Furniture Apartment Ideas",
+    author: "Kristin Watson",
+    date: "Dec 12, 2021",
+    image: "./Assets/images/post-3.jpg",
+  },
+  {
+    id: 1,
+    title: "First Time Home Owner Ideas",
+    author: "Kristin Watson",
+    date: "Dec 19, 2021",
+    image: "./Assets/images/post-1.jpg",
+  },
+  {
+    id: 2,
+    title: "How To Keep Your Furniture Clean",
+    author: "Robert Fox",
+    date: "Dec 15, 2021",
+    image: "./Assets/images/post-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Small Space Furniture Apartment Ideas",
+    author: "Kristin Watson",
+    date: "Dec 12, 2021",
+    image: "./Assets/images/post-3.jpg",
+  },
+  // Add more posts as needed
+];
